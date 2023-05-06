@@ -1,0 +1,1 @@
+This is a simple program for a snake python game which i created while learning python.Using the module pygame
